@@ -1,21 +1,3 @@
-## 🗂️ **Folder Structure**
-
-```
-python-interview-questions/
-│
-├── Q1_reverse_string.py
-├── Q2_second_largest.py
-├── Q3_char_frequency.py
-├── Q4_palindrome_check.py
-├── Q5_sum_of_digits.py
-├── Q6_remove_duplicates.py
-├── Q7_equilibrium_index.py
-├── Q8_anagram_check.py
-├── Q9_fizzbuzz.py
-├── Q10_pairs_sum.py
-│
-└── README.md
-```
 
 ---
 
@@ -57,12 +39,12 @@ Each question is in a separate `.py` file and includes clean, commented solution
 
    ```bash
    cd python-interview-questions
-   ```
+````
 3. Run any question file:
 
    ```bash
    python Q1_reverse_string.py
-   ```
+````
 
 ---
 
